@@ -1,5 +1,5 @@
 objects = hello_world vars_types arrays m_arrays \
-			conditions strings for while
+			conditions strings for while functions
 
 all: $(objects)
 	for obj in $(objects); do \
