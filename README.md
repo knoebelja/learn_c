@@ -1,4 +1,4 @@
-# learn_cpp
+# learn_c
 
 Following basics from here: https://www.learn-c.org/
 
